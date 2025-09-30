@@ -1,0 +1,19 @@
+{
+  "name": "aula-prisma",
+  "version": "1.0.0",
+  "description": "Projeto backend com NodeJS com Prisma ORM",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "SENAI",
+    "Javascript",
+    "Prisma",
+    "Backend"
+  ],
+  "author": "Ana Julia Demattei",
+  "license": "MIT",
+  "type":"module"
+}
