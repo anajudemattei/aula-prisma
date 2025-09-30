@@ -13,7 +13,7 @@ model Movie {
   category String
   duration Int
   sinopse String
-  relaseYear Int
+  releaseYear Int
 
   createdAt DateTime @default(now())
   update DateTime @updatedAt

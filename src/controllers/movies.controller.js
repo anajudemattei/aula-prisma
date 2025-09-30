@@ -46,4 +46,4 @@ class MovieController {
   }
 }
 
-export default new GameController();
+export default new MovieController();
